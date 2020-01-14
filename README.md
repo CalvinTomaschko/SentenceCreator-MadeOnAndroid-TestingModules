@@ -3,7 +3,7 @@ Using a bluetooth keyboard, an Android phone, and an app called Pydroid 3 I crea
 
 # Demo 
 
-<img src="images/SentenceCreator" height = "550" alt="Moving Gif of Sentence creator example">
+<img src="images/SentenceCreator.gif" height = "550" alt="Moving Gif of Sentence creator example">
 
 
 # Motivation
